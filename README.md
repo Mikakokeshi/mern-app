@@ -1,4 +1,3 @@
-###Mern Blog
+Mern Blog
 
-#Heroku deploy
-https://mika-mern-app.herokuapp.com
+#Heroku https://mika-mern-app.herokuapp.com
